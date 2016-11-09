@@ -32,7 +32,7 @@
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
 
 
-<img src= "https://github.com/Siriphornyui/LAB-11/blob/master/113.jpg">
+<img src= "https://github.com/Siriphornyui/LAB-11/blob/master/1478724698897.jpg">
 
 ### การระบายสีด้วย TextureBrush
 * ให้วางคอนโทรล Panel จำนวน 2 ตัวลงบน Form โดยมีชื่อว่า panel1 และ panel2 ตามลำดับ
